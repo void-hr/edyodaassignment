@@ -3,7 +3,7 @@ import group19 from "../../assets/Group19.svg";
 import group17 from "../../assets/Group17.svg";
 import group20 from "../../assets/Group20.svg";
 import circleads from "../../assets/circleads.png"
-import ads from "../../assets/ads.png"
+import ads from "../../assets/ADS.png"
 import rectangle from "../../assets/Rectangle.png"
 import vector from "../../assets/Vector.svg";
 import live from "../../assets/live.png"
